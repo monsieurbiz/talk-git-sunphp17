@@ -1,0 +1,1 @@
+removed echo and die statements, lolz.
